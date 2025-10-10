@@ -16,4 +16,17 @@ while(inicial <= hasta):
     print(f"{num} x {inicial} = {num*inicial}")
     inicial = inicial + 1
 
+#comentado para probar
+
+
+
+
+
+
+
+
+
+
+
+
 
