@@ -12,4 +12,3 @@ for x in range(3,rn + 1,2):
     else:
         print(n,"Es primo")
 
-
